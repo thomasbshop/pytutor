@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tabs.iml" filepath="$PROJECT_DIR$/tabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlflow.iml" filepath="$PROJECT_DIR$/controlflow.iml" />
     </modules>
   </component>
 </project>
