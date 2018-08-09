@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f90cb7-2309-4129-bbf1-9fb3944c7103" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/random_from_highest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonFlowChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonFlowChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_from_highest.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_from_highest.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +19,7 @@
     <session id="1591904905">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.52" value="1" />
@@ -43,12 +41,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4753" />
+          <entry key="py" value="5110" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4753" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="5110" />
         </counts>
       </usages-collector>
     </session>
@@ -82,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/loops.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -91,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/loops2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -118,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/pythonFlowChallenge.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-253">
-              <caret line="25" column="98" lean-forward="true" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
+              <caret line="25" column="98" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -127,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/while_loops.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -135,8 +135,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/random_from_highest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="463">
+              <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -207,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533644439233" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533645948114" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../exchangechart/exchange_chart.py" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -360,6 +360,14 @@
       <option name="presentableId" value="Default" />
       <updated>1533331556942</updated>
     </task>
+    <task id="LOCAL-00001" summary="loops">
+      <created>1533644576532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533644576532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -382,7 +390,7 @@
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.2605178" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.2605178" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -422,6 +430,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -476,14 +488,14 @@
     <entry file="file://$PROJECT_DIR$/loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/loops2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -497,21 +509,21 @@
     <entry file="file://$PROJECT_DIR$/pythonFlowChallenge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-253">
-          <caret line="25" column="98" lean-forward="true" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
+          <caret line="25" column="98" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/while_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/random_from_highest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="463">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
         </state>
       </provider>
     </entry>
