@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="146810f5-b412-4665-bb09-5cfc803852d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryfiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scratchpad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stringformating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pickling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shelveExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,35 +22,40 @@
     <session id="1943856200">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.39" value="3" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="pickle" value="2" />
+          <entry key="py" value="10" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="5" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1977" />
+          <entry key="dummy" value="8" />
+          <entry key="py" value="5221" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1977" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="5221" />
         </counts>
       </usages-collector>
     </session>
@@ -61,62 +63,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileIO.py">
+        <entry file="file://$PROJECT_DIR$/shelveExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            <state relative-caret-position="217">
+              <caret line="87" column="23" lean-forward="true" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/writing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2988" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binaryfiles.py">
+        <entry file="file://$PROJECT_DIR$/recipes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="86">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scratchpad.py">
+        <entry file="file://$PROJECT_DIR$/motorcycle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cities.txt">
+        <entry file="file://$PROJECT_DIR$/pickling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="975">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -141,13 +118,19 @@
         <option value="$PROJECT_DIR$/fileIO.py" />
         <option value="$PROJECT_DIR$/challenge1.py" />
         <option value="$PROJECT_DIR$/binaryfiles.py" />
+        <option value="$PROJECT_DIR$/pickling.py" />
+        <option value="$PROJECT_DIR$/shelve.py" />
+        <option value="$PROJECT_DIR$/motorcycle.py" />
+        <option value="$PROJECT_DIR$/shelveExample.py" />
+        <option value="$PROJECT_DIR$/recipes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="width" value="1368" />
-    <option name="height" value="334" />
+    <option name="x" value="4" />
+    <option name="y" value="448" />
+    <option name="width" value="1354" />
+    <option name="height" value="289" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,7 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535280414193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536084699059" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../stringformating" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -193,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binaryfiles">
+  <component name="RunManager" selected="Python.recipes">
     <configuration name="binaryfiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Input and Output" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="motorcycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Input and Output" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/motorcycle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pickling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Input and Output" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,7 +231,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileIO.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pickling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratchpad" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recipes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Input and Output" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,7 +252,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratchpad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recipes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shelveExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Input and Output" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,7 +273,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/writing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shelveExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,19 +283,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.fileIO" />
-      <item itemvalue="Python.writing" />
-      <item itemvalue="Python.scratchpad" />
-      <item itemvalue="Python.challenge1" />
       <item itemvalue="Python.binaryfiles" />
+      <item itemvalue="Python.pickling" />
+      <item itemvalue="Python.shelveExample" />
+      <item itemvalue="Python.motorcycle" />
+      <item itemvalue="Python.recipes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recipes" />
+        <item itemvalue="Python.shelveExample" />
+        <item itemvalue="Python.motorcycle" />
+        <item itemvalue="Python.pickling" />
         <item itemvalue="Python.binaryfiles" />
-        <item itemvalue="Python.challenge1" />
-        <item itemvalue="Python.fileIO" />
-        <item itemvalue="Python.writing" />
-        <item itemvalue="Python.scratchpad" />
       </list>
     </recent_temporary>
   </component>
@@ -330,9 +313,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1368" height="741" extended-state="7" />
+    <frame x="4" y="448" width="1354" height="289" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2871363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +325,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22815534" />
+      <window_info anchor="bottom" id="Run" order="2" weight="1.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -363,10 +347,33 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cities.txt">
+    <entry file="file://$PROJECT_DIR$/imelda1_file.pickle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileIO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="585">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binaryfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -377,36 +384,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fileIO.py">
+    <entry file="file://$PROJECT_DIR$/cities.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge1.py">
+    <entry file="file://$PROJECT_DIR$/pickling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="975">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample.txt">
+    <entry file="file://$PROJECT_DIR$/motorcycle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2988" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binaryfiles.py">
+    <entry file="file://$PROJECT_DIR$/shelveExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="217">
+          <caret line="87" column="23" lean-forward="true" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
