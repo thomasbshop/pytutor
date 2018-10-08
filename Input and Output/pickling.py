@@ -1,5 +1,5 @@
 # pickle is a library that allows us to enclose complex Python objects as bytes.
-# The pickle module is used to store and retrieve arbitrary Python objects (including entire collec-tions)
+# The pickle module is used to store and retrieve arbitrary Python objects (including entire collections)
 # to and from disk
 import pickle
 

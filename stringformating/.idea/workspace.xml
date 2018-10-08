@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b28b36e7-e849-47a2-a9b6-e8632cf08044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Input and Output/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Input and Output/challenge1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Input and Output/fileIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Input and Output/scratchpad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Input and Output/writing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/DateNTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/awaretime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/dateCalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/date_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/pytz_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateNTime/timechallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Input and Output/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Input and Output/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Input and Output/pickling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Input and Output/pickling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModulesNFunctions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModulesNFunctions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,14 +72,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1499924947">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stringformating.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="284">
+              <caret line="25" column="3" selection-start-line="25" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -92,10 +114,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="159" />
-    <option name="width" value="971" />
-    <option name="height" value="582" />
+    <option name="y" value="414" />
+    <option name="width" value="1358" />
+    <option name="height" value="327" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -104,6 +125,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,13 +137,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533807991226" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tabs" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538974431450" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dictionaries and Sets" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -182,8 +203,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15227273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15681818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -216,8 +238,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stringformating.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="284">
+          <caret line="25" column="3" selection-start-line="25" selection-end-line="25" selection-end-column="22" />
         </state>
       </provider>
     </entry>
