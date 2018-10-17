@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a46dc7a-c7f5-4373-95a9-31c9e3bff698" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/DateNTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/dateCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/date_time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ModImport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter/tkinter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +29,11 @@
     <session id="607880053">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.230" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -49,8 +42,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="358" />
     <option name="width" value="1346" />
-    <option name="height" value="302" />
+    <option name="height" value="371" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -58,6 +52,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,13 +65,12 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537888924760" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../webapis_python/apis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ModImport" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,7 +104,7 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25833333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2621212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
