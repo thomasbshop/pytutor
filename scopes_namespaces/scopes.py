@@ -18,10 +18,11 @@ def fact(n):
 def factorial(n):
     # n! can also be calculated as n*(n-1)*((n-1)*(n-1)-1) and so on
     """Calculating n! recursively"""
-    if n <= 1:
+    assert n >= 0, "Factorial not defined for negative values."
+    if n < 2:
         return 1
     else:
-        return n * factorial(n-1)
+        return n * factorial(n - 1)
 
 
 # recursion doesnt always work for every solution therefore you have to analyse the problem first before using recursive
