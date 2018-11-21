@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1d68c61-42a2-45bd-b195-522391f51fbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/album_oop_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/album_oop_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/scopes.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-685435587">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="6272" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="6272" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <marker date="1541577497422" expanded="true" signature="21:22" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="21:27" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="585:589" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1565:1599" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1594:1595" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1619" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1620" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1622" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1624" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1626" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1628" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1631" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1632" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1633" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1635" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1640" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1642" ph="..." />
+                <marker date="1541577497422" expanded="true" signature="1617:1644" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/duck.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+              <folding>
+                <marker date="1542738288851" expanded="true" signature="19:302" ph="..." />
+                <marker date="1542738288851" expanded="true" signature="346:383" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_doc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+              <folding>
+                <marker date="1542768495529" expanded="true" signature="18:19" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="359:360" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="359:365" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="586:587" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="586:592" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="667:668" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="667:673" ph="..." />
+                <marker date="1542768495529" expanded="true" signature="1099:1104" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enemy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+              <folding>
+                <marker date="1541611125817" expanded="true" signature="27:32" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1537" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1539" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1540" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1542" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1543" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1546" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1547" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1549" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1550" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1551" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1553" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1555" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1534:1556" ph="..." />
+                <marker date="1541611125817" expanded="true" signature="1799:1804" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(\{\d\.)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$1_</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/player.py" />
+        <option value="$PROJECT_DIR$/enemy.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/duck.py" />
+        <option value="$PROJECT_DIR$/html_doc.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="5">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="370" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542771099227" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.html_doc">
+    <configuration name="duck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="html_doc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/html_doc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.duck" />
+      <item itemvalue="Python.html_doc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.html_doc" />
+        <item itemvalue="Python.duck" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1d68c61-42a2-45bd-b195-522391f51fbc" name="Default Changelist" comment="" />
+      <created>1541522269648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541522269648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="370" extended-state="5" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1560606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32847896" />
+      <window_info anchor="bottom" x="3" y="7" width="1340" height="734" id="Run" order="2" type="FLOATING" weight="0.41100323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <marker date="1541577497422" expanded="true" signature="21:22" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="21:27" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="585:589" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1565:1599" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1594:1595" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1619" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1620" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1622" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1624" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1626" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1628" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1631" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1632" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1633" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1635" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1640" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1642" ph="..." />
+            <marker date="1541577497422" expanded="true" signature="1617:1644" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+          <folding>
+            <marker date="1541611125817" expanded="true" signature="27:32" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1537" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1539" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1540" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1542" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1543" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1546" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1547" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1549" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1550" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1551" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1553" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1555" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1534:1556" ph="..." />
+            <marker date="1541611125817" expanded="true" signature="1799:1804" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <marker date="1542738288851" expanded="true" signature="19:302" ph="..." />
+            <marker date="1542738288851" expanded="true" signature="346:383" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_doc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="67" column="37" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+          <folding>
+            <marker date="1542768495529" expanded="true" signature="18:19" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="359:360" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="359:365" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="586:587" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="586:592" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="667:668" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="667:673" ph="..." />
+            <marker date="1542768495529" expanded="true" signature="1099:1104" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Game</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

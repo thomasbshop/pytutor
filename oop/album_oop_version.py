@@ -174,3 +174,4 @@ if __name__ == "__main__":  # run if the program is executed as a script.
     artists = load_data()
     print("There are {} artists.".format(len(artists)))
     create_checkfile(artists)
+
