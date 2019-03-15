@@ -1,5 +1,6 @@
 import random
 
+
 class Enemy:
     def __init__(self, name="Enemy", hit_points=0, lives=1):
         self._name = name  # we should not be changing these attributes therefore the underscore.

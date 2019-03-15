@@ -48,3 +48,6 @@ class Player(object):
     def __str__(self):  # special printing method - string representation of the object.
         """Prints attributes so that we don't have to write print statements every time."""
         return "Name: {0.name}, Lives: {0.lives}, Level: {0.level}, Score {0.score}".format(self)
+
+
+print(Player)

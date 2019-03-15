@@ -2,20 +2,259 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="146810f5-b412-4665-bb09-5cfc803852d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/DateNTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/awaretime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/dateCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/date_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/pytz_usage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DateNTime/timechallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModImport/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ModulesNFunctions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-functions/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/Blackjack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/Blackjack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/blackjack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/10_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/10_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/10_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/10_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/10_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/10_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/10_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/10_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/1_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/1_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/1_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/1_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/1_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/1_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/1_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/1_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/2_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/2_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/2_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/2_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/2_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/2_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/2_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/2_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/3_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/3_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/3_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/3_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/3_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/3_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/3_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/3_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/4_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/4_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/4_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/4_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/4_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/4_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/4_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/4_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/5_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/5_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/5_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/5_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/5_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/5_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/5_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/5_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/6_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/6_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/6_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/6_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/6_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/6_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/6_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/6_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/7_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/7_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/7_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/7_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/7_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/7_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/7_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/7_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/8_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/8_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/8_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/8_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/8_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/8_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/8_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/8_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/9_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/9_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/9_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/9_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/9_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/9_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/9_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/9_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/ace_of_spades2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/ace_of_spades2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/black_joker.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/black_joker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_clubs2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_clubs2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_diamonds2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_diamonds2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_hearts2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_hearts2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/jack_of_spades2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/jack_of_spades2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_clubs2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_clubs2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_diamonds2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_diamonds2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_hearts2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_hearts2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/king_of_spades2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/king_of_spades2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_clubs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_clubs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_clubs2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_clubs2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_diamonds.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_diamonds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_diamonds2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_diamonds2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_hearts.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_hearts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_hearts2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_hearts2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_spades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_spades.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/queen_of_spades2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/queen_of_spades2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/cards/red_joker.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/cards/red_joker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/import_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/import_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blackjack/real_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Blackjack/real_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/DateNTime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/DateNTime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/awaretime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/awaretime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/dateCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/dateCalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/date_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/date_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/pytz_usage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/pytz_usage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateNTime/timechallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DateNTime/timechallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/Dictionaries and Sets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/Dictionaries and Sets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/Screenshot from 2018-08-14 19-56-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/Screenshot from 2018-08-14 19-56-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/challenge1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/challenge1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/fruit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/join.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/join.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/motorbike.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/motorbike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dictionaries and Sets/setsChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries and Sets/setsChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/duck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/duck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input and Output.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Input and Output.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocationsData" beforeDir="false" afterPath="$PROJECT_DIR$/LocationsData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShelfTest" beforeDir="false" afterPath="$PROJECT_DIR$/ShelfTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VocabularyData" beforeDir="false" afterPath="$PROJECT_DIR$/VocabularyData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bike" beforeDir="false" afterPath="$PROJECT_DIR$/bike" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary" beforeDir="false" afterPath="$PROJECT_DIR$/binary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary2" beforeDir="false" afterPath="$PROJECT_DIR$/binary2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binaryfiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/binaryfiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book" beforeDir="false" afterPath="$PROJECT_DIR$/book" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cave_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/cave_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cave_initialise.py" beforeDir="false" afterPath="$PROJECT_DIR$/cave_initialise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge1.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cities.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imelda1_file.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/imelda1_file.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/motorcycle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pickling.py" beforeDir="false" afterPath="$PROJECT_DIR$/pickling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes" beforeDir="false" afterPath="$PROJECT_DIR$/recipes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratchpad.py" beforeDir="false" afterPath="$PROJECT_DIR$/scratchpad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelveExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/shelveExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writing.py" beforeDir="false" afterPath="$PROJECT_DIR$/writing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ModImport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/ModImport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/ModImport.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/turtleDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/turtleDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModImport/webBrowserModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ModImport/webBrowserModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModulesNFunctions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModulesNFunctions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModulesNFunctions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModulesNFunctions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModulesNFunctions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModulesNFunctions/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ModulesNFunctions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModulesNFunctions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ModulesNFunctions/ModulesNFunctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ModulesNFunctions/ModulesNFunctions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exchangechart/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../exchangechart/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exchangechart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exchangechart/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exchangechart/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exchangechart/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exchangechart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exchangechart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exchangechart/exchange_chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/../exchangechart/exchange_chart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exchangechart/udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exchangechart/udemy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/binery_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/binery_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/iterators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/lists_tuples_ranges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/lists_tuples_ranges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/ranges" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/ranges" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/ranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists_tuples_ranges/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lists_tuples_ranges/tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/Screenshot from 2018-10-29 11-50-28.png" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/Screenshot from 2018-10-29 11-50-28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/album.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/album.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/album_oop_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/album_oop_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/album_revised.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/album_revised.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/albums.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/albums.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/check_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/check_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/flowchart1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/flowchart1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/flowchart2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/flowchart2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/flowchart3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/flowchart3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/oop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/overiding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/overiding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/pets_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/pets_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/pets_class_soln.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/pets_class_soln.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/pizza.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/pizza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/remove-circular-refferences.png" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/remove-circular-refferences.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/song.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/centered" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/centered" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/circle_challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/circle_challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/parabola.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/parabola.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/parabola1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/parabola1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-functions/python-functions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-functions/python-functions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/filesanddirectories.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/filesanddirectories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/nesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/nesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/scopes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scopes_namespaces/scopes_namespaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../scopes_namespaces/scopes_namespaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringformating/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringformating/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringformating/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringformating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringformating/stringformating.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/stringformating.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringformating/stringformating.py" beforeDir="false" afterPath="$PROJECT_DIR$/../stringformating/stringformating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/augmente assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/augmente assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/controlFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/controlFlow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/controlflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/controlflow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/ifprogramflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/ifprogramflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/loops2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/loops2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/pythonFlowChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/pythonFlowChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/random_from_highest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/random_from_highest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/tabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/tabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabs/while_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/while_loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/file1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/grid_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/grid_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/grid_geometry_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/grid_geometry_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_tut/tkinter_tut.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_tut/tkinter_tut.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemyproject/udemyproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../udemyproject/udemyproject.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,81 +266,40 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1943856200">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.39" value="3" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.open.time.62" value="1" />
-          <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="LocationsData" value="1" />
-          <entry key="pickle" value="2" />
-          <entry key="py" value="18" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="8" />
-          <entry key="py" value="7046" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="7046" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-15937905">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/writing.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recipes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cave_game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binaryfiles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -116,19 +314,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge.py">
+        <entry file="file://$PROJECT_DIR$/challenge1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cave_game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -169,15 +358,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shelveExample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -210,11 +390,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="159" />
-    <option name="width" value="971" />
-    <option name="height" value="582" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="488" />
+    <option name="width" value="1334" />
+    <option name="height" value="220" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,9 +403,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,9 +419,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536360204344" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547790353299" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../stringformating" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
@@ -397,15 +575,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
+    <frame x="0" y="488" width="1334" height="220" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15151516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15863141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32847896" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.16828479" />
@@ -424,6 +604,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14924243" />
@@ -453,36 +634,12 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/imelda1_file.pickle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sample.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binaryfiles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scratchpad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cities.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -494,27 +651,6 @@
     <entry file="file://$PROJECT_DIR$/LocationsData">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cave_initialise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/motorcycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shelveExample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -522,10 +658,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/writing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratchpad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cave_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -543,22 +717,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example.py">
+    <entry file="file://$PROJECT_DIR$/cave_initialise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="1005">
+          <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipes.py">
+    <entry file="file://$PROJECT_DIR$/motorcycle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writing.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/binaryfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -589,7 +767,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 3.5 interpreter library</last-edited>
+          <last-edited>Python 3.5 (oop) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -601,7 +779,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>Python 3.5 (oop)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -618,7 +796,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

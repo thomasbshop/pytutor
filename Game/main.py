@@ -1,31 +1,31 @@
-# from player import Player  # syntax not recommended
-#
-# thomas = Player("Thomas")
-#
-# print(thomas.name)
-# print(thomas.lives)
-#
-# # print(thomas.get_name())
-# # thomas.set_live(200)
-#
-# thomas.lives -= 1
-# print(thomas)
-#
-# thomas.lives -= 1
-# print(thomas)
-#
-# thomas._lives = 9  # still works even if you hide
-# print(thomas)
-#
-# thomas.level = 8
-# print(thomas)
-#
-# thomas.level = 6
-# print(thomas)
-#
-# print(thomas)
-# thomas.level = 12
-# print(thomas)
+from player import Player  # syntax not recommended
+
+thomas = Player("Thomas")
+
+print(thomas.name)
+print(thomas.lives)
+
+# print(thomas.get_name())
+# thomas.set_live(200)
+
+thomas.lives -= 1
+print(thomas)
+
+thomas.lives -= 1
+print(thomas)
+
+thomas._lives = 9  # still works even if you hide
+print(thomas)
+
+thomas.level = 8
+print(thomas)
+
+thomas.level = 6
+print(thomas)
+
+print(thomas)
+thomas.level = 12
+print(thomas)
 #
 # from enemy import Enemy, Troll, Vampire, VampireKing
 #
